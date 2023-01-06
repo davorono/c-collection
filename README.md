@@ -1,5 +1,5 @@
 # c-collection
-A collection of single-file programs written in C
+A collection of my single-file C solutions
 
 ## area.c
 This program calculates and displays the area of a rectangle. The user is prompted to enter the height and width of the rectangle, and then the area is calculated and displayed.
