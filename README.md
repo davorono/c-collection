@@ -1,4 +1,4 @@
-# c-work
+# c-collection
 A collection of single-file programs written in C
 
 ## area.c
